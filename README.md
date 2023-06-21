@@ -1,8 +1,1 @@
-# A3-project
-Neste projeto de gerenciamento foi desenvolvido o conceito básico de gerenciamento de informações dentro de um sistema.
-Em nosso projeto realizamos um CRUD, termo comumente utilizado no meio da programação é um acrônimo para as maneiras de se operar em informação armazenada originário do inglês permite ao usuário realizar operações como criar(create) e inserir informações em um banco de dados, ler(read) informações presentes no banco, atualizar(update) informações do banco de dados e por fim deletar(delete) as informações também presentes no banco.
-
-----------------------------------------------------------------------------------------------------
-
-In this management project, the basic concept of managing information within a system was developed.
-In our project we carried out a CRUD, a term commonly used in the middle of programming is an acronym for the ways of operating on stored information, originating in English, it allows the user to perform operations such as create(create) and insert information into a database, read( read) information present in the database, update (update) information from the database and finally delete (delete) the information also present in the database.
+Neste projeto de gestão, foi elaborado o conceito fundamental do gerenciamento de informações em um sistema. No âmbito do nosso projeto, implementamos um CRUD, que é um termo comumente utilizado na programação. Ele é um acrônimo que representa as operações básicas de manipulação de informações em um banco de dados. O CRUD permite ao usuário realizar as seguintes operações: criar (create) e inserir informações em um banco de dados, ler (read) informações presentes no banco, atualizar (update) informações do banco de dados e, por fim, excluir (delete) as informações também presentes no banco.
